@@ -1,0 +1,113 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Los Angeles</string>
+
+    <!-- Category name for La Canada[CHAR LIMIT=20] -->
+    <string name="La_Canada">La Canada</string>
+
+    <!-- Category name for downtown [CHAR LIMIT=20] -->
+    <string name="Downtown">Downtown</string>
+
+    <!-- Category name for santa monica [CHAR LIMIT=20] -->
+    <string name="Santa_Monica">Santa Monica</string>
+
+    <!-- Category name for hollywood [CHAR LIMIT=20] -->
+    <string name="Hollywood">Hollywood</string>
+
+    <!-- attraction name for Union Station [CHAR LIMIT=20] -->
+    <string name="Union_Station">Union Station</string>
+
+    <!-- attraction name for SKyspace LA [CHAR LIMIT=20] -->
+    <string name="OUE_Skyspace_LA">OUE Skyspace LA</string>
+
+    <!-- attraction for grand central market [CHAR LIMIT=20] -->
+    <string name="Grand_Central_Market">Grand Central Market</string>
+
+    <!-- attraction anme for olvera st [CHAR LIMIT=20] -->
+    <string name="Olvera_Street">Olvera Street</string>
+
+    <!-- attraction name for promenade[CHAR LIMIT=20] -->
+    <string name="Promenade">Promenade</string>
+
+    <!-- attraction name for sant monica pier [CHAR LIMIT=20] -->
+    <string name="Santa_Monica_Pier">Santa Monica Pier</string>
+
+    <!-- attraction name for santa monica beach [CHAR LIMIT=20] -->
+    <string name="Santa_Monica_Beach">Santa Monica State Beach</string>
+
+    <!-- attraction name for santa monica aquarium [CHAR LIMIT=20] -->
+    <string name="Santa_Monica_Aquarium">Santa Monica Aquarium</string>
+
+    <!-- attraction name for walk of fame [CHAR LIMIT=20] -->
+    <string name="Walk_Of_Fame">Hollywood Walk Of Fame</string>
+
+    <!-- attraction name for hollywood bowl [CHAR LIMIT=20] -->
+    <string name="Hollywood_Bowl">Hollywood Bowl</string>
+
+    <!-- attraction name for grifith park obs.[CHAR LIMIT=20] -->
+    <string name="Griffith_Park_Observatory">Griffith Park Observatory</string>
+
+    <!-- attraction name for runyan cyn [CHAR LIMIT=20] -->
+    <string name="Runyan_Canyon">Runyan Canyon</string>
+
+    <!-- attraction name for descanso gardens [CHAR LIMIT=30] -->
+    <string name="Descanso_Gardens">Descanso Gardens</string>
+
+    <!-- attraction name for brown mountain [CHAR LIMIT=20] -->
+    <string name="Brown_Mountain_Dam">Brown Mountain Dam</string>
+
+    <!-- attraction name for lanterman house [CHAR LIMIT=20] -->
+    <string name="Lanterman_House">Lanterman House</string>
+
+    <!-- attraction name for el prieto hiking [CHAR LIMIT=20] -->
+    <string name="El_Prieto_Hiking_Trail">El Prieto Hiking Trail</string>
+
+    <!-- address of union station -->
+    <string name="Union_Station_Address">800 N. Alameda St., Los Angeles, CA</string>
+
+    <!-- address of skypace LA -->
+    <string name="Skyspace_Address">633 W 5th St #840, Los Angeles, CA 90071</string>
+
+    <!-- address of grand central market -->
+    <string name="Grand_Central_Address">317 S Broadway, Los Angeles, CA 90013</string>
+
+    <!-- address of olvera st -->
+    <string name="Olvera_Street_Address">845 Alameda St, Los Angeles, CA 90012</string>
+
+    <!-- address for walk of fame -->
+    <string name="Walk_Of_Fame_Address">N Highland Ave / Hollywood Boulevard, Los Angeles, CA 90028</string>
+
+    <!-- address for hollywood bowl -->
+    <string name="Hollywood_Bowl_Address">2301 N Highland Ave, Los Angeles, CA 90068</string>
+
+    <!-- address for griffith observatory -->
+    <string name="Griffith_Observatory_Address">2800 E Observatory Rd, Los Angeles, CA 90027</string>
+
+    <!-- address for runyan cyn  -->
+    <string name="Runyan_Canyon_Address">2000 N Fuller Ave, Los Angeles, CA 90046</string>
+
+    <!-- address for 3rd st promenade -->
+    <string name="Promenade_Address">1351 3rd Street Promenade, Santa Monica, CA 90401</string>
+
+    <!-- address for santa monica pier -->
+    <string name="Pier_Address">200 Santa Monica Pier, Santa Monica, CA 90401</string>
+
+    <!-- address for santa monica beach -->
+    <string name="Santa_Monica_Beach_Address">Pacific Coast Hwy, Santa Monica, CA 90401</string>
+
+    <!-- address for santa monica aquarium -->
+    <string name="Aquarium_Address">1600 Ocean Front Walk, Santa Monica, CA 90401</string>
+
+    <!-- address for descanso gardens attraction" -->
+    <string name="Descanso_Gardens_Address">1418 Descanso Dr, La Cañada Flintridge, CA 91011</string>
+
+    <!-- address for brown dam attraction" -->
+    <string name="Brown_Dam_Address">Seco, Arroyo, La Cañada Flintridge, CA 91011</string>
+
+    <!-- address for lanterman attraction" -->
+    <string name="Lanterman_House_Address">4420 Encinas Dr, La Cañada Flintridge, CA 91011</string>
+
+    <!-- adress for el prieto attraction" -->
+    <string name="El_Prieto_Address">N Arroyo Blvd, Altadena, CA 91001</string>
+
+</resources>
